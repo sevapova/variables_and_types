@@ -6,6 +6,6 @@
 
 # Assign 4 (int value) to 'd' variable;
 
-# Find the result of that expression 'https://github.com/Final-PythonFoundationHomework/variables_and_types/blob/main/README.md#begin09' to variable 'k';
+# Find the result of that expression 'https://github.com/xakimovallamurod/variables_and_types/blob/main/begin09.py' to variable 'k';
 
 # # Print the variable 'k'.
