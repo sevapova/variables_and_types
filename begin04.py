@@ -3,3 +3,9 @@
 # Assign 3 (int value) to 'b' variable;
 
 # Print the division of a by b.
+
+a = 12
+b= 3
+c= 12/3
+
+print (c)
