@@ -9,3 +9,10 @@
 # Find the result of that expression 'https://github.com/xakimovallamurod/variables_and_types/blob/main/begin09.py' to variable 'k';
 
 # # Print the variable 'k'.
+a=8
+b=3
+c=2
+d=4
+k= (a+b-c*d)
+
+print (k)
