@@ -11,7 +11,7 @@
 a =24 #1 usul
 b= 3
 c= 5
-k= (a,b,c)
+k= (a-b+c)
 
-print24=(k)
+print (k)
 
