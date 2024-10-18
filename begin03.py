@@ -3,3 +3,9 @@
 # Assign 8 (int value) to 'b' variable;
 
 # Print the multiplicand 'a' and 'b'.
+
+a= 6
+b=8
+c= a*b
+
+print (c)
