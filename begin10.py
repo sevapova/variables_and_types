@@ -9,3 +9,11 @@
 # Find the result of that expression 'https://github.com/xakimovallamurod/variables_and_types/blob/main/README.md#begin10' to variable 'k';
 
 # # Print the variable 'k'.
+
+a=5
+b=4
+c=2
+d=8
+k=2*(a*b-c*d)
+
+print (k)
