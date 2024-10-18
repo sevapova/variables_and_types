@@ -5,3 +5,10 @@
 # Assign 5 (int value) to 'c' variable;
 
 # Print the sum of three variables 'a', 'b', 'c';
+
+a=7
+b=5
+c=3
+k=a+b+c
+
+print = (k)
