@@ -10,5 +10,4 @@ a=24
 b=5
 c=4
 k =a*b/c
-
 print (k)
